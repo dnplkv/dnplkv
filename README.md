@@ -2,10 +2,10 @@
 
 My name is Danny, and I am passionate and curious about IT, hardware, technical solutions and modern technologies.
 
-<img align="right" height="160" src="https://github-readme-stats.vercel.app/api?username=dnplkv&show_icons=true&theme=dark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dnplkv&show_icons=true&theme=dark" />
 
 <p>
-	<img src="https://github.com/dnplkv/dnplkv/blob/main/thumb-1920-234864.jpg" width="320"/>
+	<img src="https://github.com/dnplkv/dnplkv/blob/main/thumb-1920-234864.jpg" width="330"/>
 </p>
 
 <p>
