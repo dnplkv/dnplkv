@@ -6,10 +6,10 @@ I am always open to new opportunities and interesting projects.
 
 Let's build bright future today😃
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dnplkv&show_icons=true&theme=dark" />
+<img align="right" height="100" src="https://github-readme-stats.vercel.app/api?username=dnplkv&show_icons=true&theme=dark" />
 
 <p>
-	<img src="https://github.com/dnplkv/dnplkv/blob/main/quote.jpg" width="360"/>
+	<img src="https://github.com/dnplkv/dnplkv/blob/main/quote.jpg" width="400"/>
 </p>
 
 You can find me on:
