@@ -2,7 +2,9 @@
 
 My name is Danny, and I am passionate and curious about IT, hardware, technical solutions and modern technologies.
 
-I am always open to new opportunities and interesting projects.
+I am always open to new opportunities and ambitious projects.
+
+Main coding language and field of interest — Python🐍
 
 Let's build bright future today😃
 
