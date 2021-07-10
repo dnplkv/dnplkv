@@ -9,7 +9,7 @@ Let's build bright future today😃
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dnplkv&show_icons=true&theme=dark" />
 
 <p>
-	<img src="https://github.com/dnplkv/dnplkv/blob/main/quote.jpg" width="335"/>
+	<img src="https://github.com/dnplkv/dnplkv/blob/main/quote.jpg" width="360"/>
 </p>
 
 You can find me on:
