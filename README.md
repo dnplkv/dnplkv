@@ -6,7 +6,7 @@ I am always open to new opportunities and interesting projects.
 
 Let's build bright future today😃
 
-<img align="right" height="100" src="https://github-readme-stats.vercel.app/api?username=dnplkv&show_icons=true&theme=dark" />
+<img align="right" height="180" src="https://github-readme-stats.vercel.app/api?username=dnplkv&show_icons=true&theme=dark" />
 
 <p>
 	<img src="https://github.com/dnplkv/dnplkv/blob/main/quote.jpg" width="400"/>
