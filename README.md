@@ -2,7 +2,7 @@
 
 My name is Danny, and I am passionate and curious about IT, hardware, technical solutions and modern technologies.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dnplkv&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dnplkv&show_icons=true&theme=radical" />
 
 <p>
 	<img src="https://github.com/dnplkv/dnplkv/blob/main/thumb-1920-234864.jpg" width="494"/>
