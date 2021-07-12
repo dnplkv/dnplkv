@@ -4,7 +4,7 @@ My name is Danny, and I am passionate and curious about IT, hardware, technical 
 
 I am always open to new opportunities and ambitious projects.
 
-Main coding language and field of interest — Python🐍
+Main coding language — Python🐍
 
 Let's build bright future today😃
 
