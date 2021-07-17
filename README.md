@@ -6,8 +6,6 @@ I am always open to new opportunities and ambitious projects.
 
 Currently my fields of interest are: Python, Django, Flask, Docker, Celery, Redis, Nginx, WSGI (gunicorn/uwsgi), SQlite3, MongoDB, PostgreSQL, Git, Bash, UNIX.
 
-https://www.w3schools.com/css/
-
 Let's build bright future today😃
 
 <img align="right" height="170" src="https://github-readme-stats.vercel.app/api?username=dnplkv&show_icons=true&theme=dark" />
