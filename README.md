@@ -8,7 +8,7 @@ I'm always open to new opportunities and ambitious projects.
 
 Let's build bright future today😃
 
-### Technlogies:
+### Technologies:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=22924f)
 ![](https://img.shields.io/badge/Editor-PyCharm_IDEA-informational?style=flat&logo=pycharm&logoColor=white&color=22924f)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=22924f)
