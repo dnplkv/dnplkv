@@ -1,10 +1,11 @@
 ### Hi, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Danny, and I am passionate and curious about IT, hardware, technical solutions and modern technologies👨🏻‍💻
+My name is Danny, and I am passionate and curious about IT, hardware, technical solutions and modern technologies👨🏻‍💻 
+
+Currently I am learning Python to become a solid Python Developer😌
 
 I am always open to new opportunities and ambitious projects.
 
-## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=22924f)
 ![](https://img.shields.io/badge/Editor-PyCharm_IDEA-informational?style=flat&logo=pycharm&logoColor=white&color=22924f)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=22924f)
