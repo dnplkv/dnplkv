@@ -1,11 +1,14 @@
-### Hi, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Danny, and I am passionate and curious about IT, hardware, technical solutions and modern technologies👨🏻‍💻 
+My name is Danny, and I'm passionate and curious about IT, hardware, technical solutions and modern technologies👨🏻‍💻 
 
-Currently I am learning Python to become a solid Python Developer😌
+Currently I'm learning Python to become a solid Python Developer😌
 
-I am always open to new opportunities and ambitious projects.
+I'm always open to new opportunities and ambitious projects.
 
+Let's build bright future today😃
+
+### Technlogies:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=22924f)
 ![](https://img.shields.io/badge/Editor-PyCharm_IDEA-informational?style=flat&logo=pycharm&logoColor=white&color=22924f)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=22924f)
@@ -18,12 +21,10 @@ I am always open to new opportunities and ambitious projects.
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=22924f)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=22924f)
 
-Let's build bright future today😃
-
 <img align="right" height="170" src="https://github-readme-stats.vercel.app/api?username=dnplkv&show_icons=true&theme=dark" />
 
 <p>
-	<img src="https://github.com/dnplkv/dnplkv/blob/main/quote.jpg" width="400"/>
+	<img src="https://github.com/dnplkv/dnplkv/blob/main/motivation.jpg" width="400"/>
 </p>
 
 You can find me on:
