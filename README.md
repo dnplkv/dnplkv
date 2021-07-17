@@ -27,7 +27,7 @@ Let's build bright future today😃
 	<img src="https://github.com/dnplkv/dnplkv/blob/main/motivation.jpg" width="400"/>
 </p>
 
-You can find me on:
+### You can find me via:
 
 <p>
 	<a  align="right" href="https://twitter.com/dannypolyakov"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
