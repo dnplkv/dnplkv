@@ -2,7 +2,7 @@
 
 My name is Danny, and I'm passionate and curious about IT, hardware, technical solutions and modern technologies👨🏻‍💻 
 
-Currently I'm learning Python to become a well-credentialed Python Developer😌
+Currently I'm learning Python to become a well-credentialed Python Developer.
 
 I'm always open to new opportunities and ambitious projects.
 
